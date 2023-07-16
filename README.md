@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is ***Yunus Yurttürk***
 
-I'm a passionate ***software developer*** living in ***Ankara, Turkey***. I love coding and learning new stuff. Once I was an ***embedded software developer***, ***team leader*** and ***developing missile software*** in ***defense industry***🚀.  Just before 2023, I decided to change my career path and now I'm working on ***Unreal Engine***, as an ***C++ Software developer*** in ***Broadcast & Media Industry***.📺
+I'm a passionate ***software developer*** living in ***Ankara, Turkey***. I love coding and learning new stuff. Once I was an ***embedded software developer***, ***team leader*** and ***developing missile software*** in ***defense industry***🚀.  Just before 2023, I decided to change my career path and now I'm working as an ***C++ Software developer*** in ***Broadcast & Media Industry***.📺
 
 
 
@@ -10,15 +10,16 @@ I'm a passionate ***software developer*** living in ***Ankara, Turkey***. I love
 - 💬 My Blog: (**yunusyurtturk.com**)](https://yunusyurtturk.com)
 - 📫 How to reach me: yunusyurtturk@gmail.com
 
-- 🔭 I’m currently working on ***Unreal Engine*** (C++, Rendering, PostProcess, etc.)
-- 🌞 I’m currently learning Unreal ***Engine from source code level***, graphic programming, game programming...
+- 🔭 I’m currently working with C++ 
+- 🌞 I’m currently learning Unreal ***Engine from source code level***
 - 🕵 I’m extremely experienced with Zynq SoCs, ARM processors, bare metal development, RTOS, low level networking & communication, also missile development ☢️
+- 🔥 I also have hands-on experience with other techs: web development, mobile development, etc.
 <!---
 🕵🏻‍♂️✨🌞🔥💫💘☢️
 --->
 <br>
 
-- 2022 : Working as software developer, dealing with ***Unreal Engine, C++, graphics programming***, etc.
+- 2022 : Working as software developer, dealing with C++
 - 2013-2022 : 🚀***Involved in developing first generation of specific missile family***🚀
 - 2018 : 🚀Become ***software team leader*** of a specific project, the team consisted of around 12 people
 - 2014 : 🖥️Published ~~Android application for Bazaarers~~
