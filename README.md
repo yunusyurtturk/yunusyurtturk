@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is ***Yunus Yurttürk***
 
-I'm a passionate ***software engineer*** with a Bachelor’s degree in Electronics Engineering from ***Ankara, Turkey***. I love coding and learning new stuff. My professional experience includes a diverse set of skills. Once I was working as an ***embedded software developer***, later as the ***team leader*** of a specific ***missile project*** in ***defense industry***🚀. At the beginning of 2023, I made a dramatical change in my career. Since then, I've been working remotely as a software engineer in ***Media & Broadcast Industry***📺. 
+I'm a passionate ***software engineer*** with a bachelor’s degree in Electronics Engineering, living in ***Ankara, Turkey***. I love coding and learning new stuff. My professional experience includes a diverse set of skills. Once I was working as an ***embedded software developer***, later as the ***team leader*** of a specific ***missile project*** in ***defense industry***🚀. At the beginning of 2023, I made a dramatical change in my career. Since then, I've been working remotely as a software engineer in ***Media & Broadcast Industry***📺. 
 
 
 
