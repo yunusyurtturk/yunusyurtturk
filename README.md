@@ -10,8 +10,8 @@ I'm a passionate ***software engineer*** with a bachelor’s degree in Electroni
 - 💬 My Blog: [(**yunusyurtturk.com**)](https://yunusyurtturk.com)
 - 📫 How to reach me: yunusyurtturk@gmail.com
 
-- 🔭 C, C++, C#, Powershell
-- 🌞 DevOps, Unreal Engine (source code level!), OpenGL, QT & Qml
+- 🔭 C, C++, C#, Powershell, CMake
+- 🌞 DevOps, Unreal Engine (source code level!), OpenGL, QT & Qml, Github Actions
 - 🕵 Embedded Software, Zynq SoCs, ARM Architecture, RTOS. ☢️
 - 🔥 I also have hands-on experience with other techs: web development, mobile development, etc.
 <!---
